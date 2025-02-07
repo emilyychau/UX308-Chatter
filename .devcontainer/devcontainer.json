@@ -1,0 +1,15 @@
+{
+    // ...
+    "overrideCommand": true,
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "streetsidesoftware.code-spell-checker",
+                "ritwickdey.LiveServer",
+                "DavidAnson.vscode-markdownlint",
+                "DavidKaiser.kaiser-project-zip"
+            ]
+        }
+    }
+    // ...
+  }
